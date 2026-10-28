@@ -1,0 +1,1 @@
+Install Python 3.12 64-bit. Enable Add Python to PATH. Extract package and double-click build_windows.bat. Executable output: dist\EcoGraph Lab.exe. For GitHub build, see README.md.
